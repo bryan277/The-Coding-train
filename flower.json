@@ -1,0 +1,10 @@
+{
+  "name":"flower",
+  "r": 255,
+  "g": 200,
+  "b": 0,
+  "cars":{
+    "bmw":"german",
+    "honda":"japanese"
+  }
+}
